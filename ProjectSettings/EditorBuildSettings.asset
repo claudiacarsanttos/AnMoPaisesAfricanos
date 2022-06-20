@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 346f73a13834b2b4f9e25e3e44c85bbb
+  - enabled: 1
+    path: Assets/Scenes/InstructionGame.unity
+    guid: 540bf8d2e6900404c8b5ab95f08ec098
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c78eb408da349d6469c121ee09aafde6
+  - enabled: 1
+    path: Assets/Scenes/CreditsTwo.unity
+    guid: 38e09eed7d0a2aa4bb6d209fb431662e
+  - enabled: 1
+    path: Assets/Scenes/CreditsThree.unity
+    guid: 8b467ea7201139b4cbdc82cabe82c281
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 638791568006191468de04a4b727f245
+  - enabled: 1
+    path: Assets/Scenes/StoryAngola.unity
+    guid: e77e76bf142063e429e1c261c2c5fe66
+  - enabled: 1
+    path: Assets/Scenes/StoryAngolaTwo.unity
+    guid: 2e411439e55152042a92ef81c0cadcbd
+  - enabled: 1
+    path: Assets/Scenes/StoryAngolaThree.unity
+    guid: 0126551cafb30fb4ca11d312b915ab44
+  - enabled: 1
+    path: Assets/Scenes/StoryMocambique.unity
+    guid: 87404f32e574b5949944bee0993ce3b4
+  - enabled: 1
+    path: Assets/Scenes/StoryMocambiqueTwo.unity
+    guid: 06a573e1784189348b544a02c08b398a
+  - enabled: 1
+    path: Assets/Scenes/StoryMocambiqueThree.unity
+    guid: 9b65435339b769349bc7b96a8f54983c
+  - enabled: 1
+    path: Assets/Scenes/Religion.unity
+    guid: 2d48a7ba4e6ed1843aa3d8deac2b6598
+  - enabled: 1
+    path: Assets/Scenes/Cantico.unity
+    guid: c90591bd9ff010f40a711ae546246ac4
+  - enabled: 1
+    path: Assets/Scenes/InstructionReligion.unity
+    guid: 59b9d6e68a9c62d46bdc3f3593a9a222
+  - enabled: 1
+    path: Assets/Scenes/Cooking.unity
+    guid: a6ce42899f46ae5449ae6b3fcd05d598
+  - enabled: 1
+    path: Assets/Scenes/InstructionCooking.unity
+    guid: 52867e15033ea6546a930e3d08431e2d
+  - enabled: 1
+    path: Assets/Scenes/ArtDance.unity
+    guid: 723b81364dc461046a9a98ee27b9caae
+  - enabled: 1
+    path: Assets/Scenes/InstructionArtDance.unity
+    guid: f09da97713c79114e9e5f7195c69d417
+  - enabled: 1
+    path: Assets/Scenes/MusicAngola.unity
+    guid: a9f0fa8f05959de4495b717b9dbbd5b9
+  - enabled: 1
+    path: Assets/Scenes/MusicMocambique.unity
+    guid: 292ee556e3871474ea7105eea5f3e83c
+  - enabled: 1
+    path: Assets/Scenes/InstructionMusic.unity
+    guid: 85ffdd4d0252f284ba7152fbbb1c0d1c
+  - enabled: 1
+    path: Assets/Scenes/HappyBirthday.unity
+    guid: 0631402bedf71e54585316c8e74d7f68
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: dd429e34217ef4a4ea70ec0f65088d65
+  m_configObjects: {}
